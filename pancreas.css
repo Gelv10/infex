@@ -1,0 +1,38 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.75;
+    background-color: #12141D;
+    padding: 20px;
+}
+
+h1 {
+    color: #315384;
+    text-shadow:
+        -1px -1px 0 #FFF,
+        1px -1px 0 #FFF,
+        -1px 1px 0 #FFF,
+        1px 1px 0 #FFF;
+}
+
+.nb {
+    color: #FFF;
+}
+
+h2 {
+    color: #315384;
+}
+
+p {
+    color: #fff;
+}
+
+.s {
+    width: 90vw;
+    height: 50vh;
+}
